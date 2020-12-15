@@ -4,9 +4,7 @@ using System.Collections.Generic;
 
 namespace python_functions
 {
-	/// <summary>
-	/// Description of MyClass.
-	/// </summary>
+	
 	namespace functions
 	{
 		public static class functions{
